@@ -6,8 +6,8 @@ Styleguides are rulesets that developers recognize and most of the time adhere t
 
 <dl>
 
-<dt>Traffic lights</dt>
-<dd>Rules that are completely arbitrary ("Red means stop", "indent with spaces") that make everyone's life easier
+<dt>Traffic handedness</dt>
+<dd>Rules that are completely arbitrary (Right-/left-handed traffic, "indent with spaces") that make everyone's life easier
 </dd>
 
 <dt>General legibility<dt>
